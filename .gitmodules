@@ -1,0 +1,15 @@
+[submodule "lib/keyswitches.pretty"]
+	path = lib/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "lib/keyboard_reversible.pretty"]
+	path = lib/keyboard_reversible.pretty
+	url = https://github.com/50an6xy06r6n/keyboard_reversible.pretty.git
+[submodule "lib/kbd"]
+	path = lib/kbd
+	url = https://github.com/foostan/kbd.git
+[submodule "lib/keyboard.pretty"]
+	path = lib/keyboard.pretty
+	url = https://github.com/swanmatch/keyboard.pretty.git
+[submodule "lib/nice_view_pcb"]
+	path = lib/nice_view_pcb
+	url = https://github.com/HookyQR/nice_view_pcb.git
